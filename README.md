@@ -36,7 +36,7 @@ Currently supported languages:
 		<tr>
 			<td>Uzbek (Cyrillic)</td>
 			<td>
-				<a href="https://www.facebook.com/abbosbek.alijonov">Abbosbek Alijonov</a>, 
+				<a href="https://www.instagram.com/alijonov_98_/">Abbosbek Alijonov</a>, 
 				<a href="https://www.facebook.com/Jakhongir.JMM">Jakhongir Makhammadjonov</a>
 			</td>
 		</tr>
