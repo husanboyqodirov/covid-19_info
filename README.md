@@ -22,7 +22,8 @@ Currently supported languages:
 		<td>Korean</td>
 		<td>
 			<a href="http://facebook.com/hasanboy.dev">Hasanboy Qodirov</a>, 
-			<a href="https://www.facebook.com/jakhongir.tukhtasinov.7">Jakhongir Tukhtasinov</a>
+			<a href="https://www.facebook.com/jakhongir.tukhtasinov.7">Jakhongir Tukhtasinov</a>, 
+			<a href="https://www.instagram.com/abbosrakhimov/">Abbosjon Rakhimov</a>
 		</td>
 	</tr>
 	<tr>
