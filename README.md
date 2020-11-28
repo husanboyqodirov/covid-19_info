@@ -11,6 +11,6 @@ Currently supported languages:
 Language | Translated by
 ------------ | -------------
 English | [Husanboy Qodirov](https://www.facebook.com/khusanboykodirov)
-Korean | [Hasanboy Qodirov,](http://facebook.com/hasanboy.dev)
+Korean | [Hasanboy Qodirov](http://facebook.com/hasanboy.dev)
 Uzbek (Latin) | [Husanboy Qodirov](https://www.facebook.com/khusanboykodirov)
 Uzbek (Cyrillic) | [Abbosjon Rakhimov](https://www.instagram.com/abbosrakhimov/)
