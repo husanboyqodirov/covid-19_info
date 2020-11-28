@@ -40,7 +40,8 @@ Currently supported languages:
 		<td>Uzbek (Cyrillic)</td>
 		<td>
 			<a href="https://www.instagram.com/alijonov_98_/">Abbosbek Alijonov</a>, 
-			<a href="https://www.facebook.com/Jakhongir.JMM">Jakhongir Makhammadjonov</a>
+			<a href="https://www.facebook.com/Jakhongir.JMM">Jakhongir Makhammadjonov</a>, 
+			<a href="https://www.facebook.com/hamidillo.marifjonov">Hamidillo Marifjonov</a>
 		</td>
 	</tr>
 </table>
