@@ -41,3 +41,10 @@ Currently supported languages:
 			</td>
 		</tr>
 	</table>
+	
+<table>
+	<tr>
+		<td><img src="screenshots/english.png"></td>
+		<td><img src="screenshots/korean.png"></td>
+	</tr>
+</table>
