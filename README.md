@@ -15,7 +15,7 @@ Currently supported languages:
 			<td>English</td>
 			<td>
 				<a href="https://www.facebook.com/khusanboykodirov">Husanboy Qodirov</a>, 
-				<a href="https://www.facebook.com/abbos.ilyosjonov.737">Abbos Ilyosjonov</a>
+				<a href="https://www.instagram.com/abbosilyosjonov/">Abbos Ilyosjonov</a>
 			</td>
 		</tr>
 		<tr>
